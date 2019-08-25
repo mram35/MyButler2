@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84497628893",
+    "firebase_url": "https://possible-dream-180119.firebaseio.com",
+    "project_id": "possible-dream-180119",
+    "storage_bucket": "possible-dream-180119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84497628893:android:5c625e2ca9fe6b3f",
+        "android_client_info": {
+          "package_name": "com.example.mybutler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84497628893-vkb3r1r41d4t5lek3md1i83mrc68c41f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0cS6_cZDW21iUoG3aYGw75F5GQ3puWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84497628893-vkb3r1r41d4t5lek3md1i83mrc68c41f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
